@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "GMWD8RGR8V.uk.yocal.app"
+        ],
+        "components": [
+          {
+            "/": "/h/*",
+            "comment": "A holiday let card: open the app on that house."
+          },
+          {
+            "/": "/gym/*",
+            "comment": "A Barnhouse Fitness poster: mark a member and open the gym."
+          }
+        ]
+      }
+    ]
+  }
+}
